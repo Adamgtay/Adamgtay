@@ -4,25 +4,23 @@ Welcome to my GitHub profile! I'm a full stack development student, passionate a
 
 ## About Me
 
-- 💼 Currently working as a [Your Current Job Title].
-- 🌱 I'm currently learning [Languages/Frameworks/Technologies].
-- 💬 Ask me about [Your Expertise or Interests].
-- 📫 How to reach me: [Your Contact Information].
+- 💼 Currently studying at kood/Johvi, Estonia.
+- 🌱 I'm currently learning Golang, JavaScript, HTML, CSS, Python.
+- 💬 Ask me about music, game development, art and design.
 - 😄 Pronouns: [Your Pronouns].
 
 ## Skills
 
-- Languages: [List of Programming Languages]
-- Frameworks: [List of Frameworks]
-- Tools: [List of Tools or Technologies]
+- Languages: Golang, Python
+- Tools: VSC, Git
 
 ## Projects
 
 Here are a few projects I'm proud of:
 
-1. [Project 1 Name](link)
-   - Description: [Brief Description]
-   - Technologies Used: [List of Technologies]
+1. [art-interface](https://github.com/Adamgtay/art-decoder-encoder.git)
+   - Description: Art Interface is a versatile web application designed for processing text-based art, offering both encoding and decoding functionalities.
+   - Technologies Used: Golang, HTML/CSS
 
 2. [Project 2 Name](link)
    - Description: [Brief Description]
