@@ -26,14 +26,8 @@ Here are a few projects I'm proud of:
    - Description: In "Code Combat: ASCII Strikes Back," players wield the ASCII Cannon to fend off waves of pesky bugs threatening the digital realm.
    - Technologies Used: Python, Pygame, GarageBand
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
-
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [Your Twitter Profile](link)
-- Website: [Your Personal Website](link)
+- LinkedIn: [Your LinkedIn Profile]([link](https://www.linkedin.com/in/adam-taylor-43978b20b/))
 
 Feel free to explore my repositories and get in touch! 😊
