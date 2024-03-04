@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a full stack development student, passionate a
 
 Here are a few projects I'm proud of:
 
-1. [[art-interface](https://github.com/Adamgtay/art-decoder-encoder.git)](https://github.com/Adamgtay/art-decoder-encoder/tree/52a20bb7ae287c81836e31171f18fa772ad18b1d/art-interface)
+1. [[[art-interface](https://github.com/Adamgtay/art-decoder-encoder.git)]
    - Description: Art Interface is a versatile web application designed for processing text-based art, offering both encoding and decoding functionalities.
    - Technologies Used: Golang, HTML/CSS
 
