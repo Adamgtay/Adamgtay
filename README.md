@@ -28,6 +28,6 @@ Here are a few projects I'm proud of:
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile]([link](https://www.linkedin.com/in/adam-taylor-43978b20b/))
+- LinkedIn: [(https://www.linkedin.com/in/adam-taylor-43978b20b/)]
 
 Feel free to explore my repositories and get in touch! 😊
