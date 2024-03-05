@@ -22,7 +22,7 @@ Here are a few projects I'm proud of:
    - Technologies Used: Golang, HTML/CSS
 
 2. [[Code Combat: ASCII Strikes Back](https://github.com/Adamgtay/Code-Combat-ASCII-Strikes-Back.git)]
-   - Description: In "Code Combat: ASCII Strikes Back," A Space Invaders style game sylised completely using ASCII symbols.
+   - Description: In "Code Combat: ASCII Strikes Back," A game inspired by Space Invaders, sylised completely using ASCII symbols.
    - Technologies Used: Python, Pygame, GarageBand
 
 ## Get in Touch
