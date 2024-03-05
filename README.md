@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a full stack development student, passionate a
 - 💼 Currently studying at kood/Johvi, Estonia.
 - 🌱 I'm currently learning Golang, JavaScript, HTML, CSS, Python.
 - 💬 Ask me about music, game development, art and design.
-- 😄 Pronouns: [Your Pronouns].
 
 ## Skills
 
