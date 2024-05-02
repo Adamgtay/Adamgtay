@@ -13,17 +13,6 @@ Welcome to my GitHub profile! I'm a full stack development student, passionate a
 - Languages: Golang, Python, HTML /CSS
 - Tools: VSC, Git
 
-## Projects
-
-Here are a few projects I'm proud of:
-
-1. [[Art Interface](https://github.com/Adamgtay/art-decoder-encoder.git)]
-   - Description: Art Interface is a versatile web application designed for processing text-based art, offering both encoding and decoding functionalities.
-   - Technologies Used: Golang, HTML/CSS
-
-2. [[Code Combat: ASCII Strikes Back](https://github.com/Adamgtay/Code-Combat-ASCII-Strikes-Back.git)]
-   - Description: In "Code Combat: ASCII Strikes Back," A game inspired by Space Invaders, sylised completely using ASCII symbols.
-   - Technologies Used: Python, Pygame, GarageBand
 
 ## Get in Touch
 
