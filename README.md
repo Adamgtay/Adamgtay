@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a full stack development student, passionate a
 
 ## Skills
 
-- Languages: Golang, Python
+- Languages: Golang, Python, HTML /CSS
 - Tools: VSC, Git
 
 ## Projects
