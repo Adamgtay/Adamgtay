@@ -1,21 +1,21 @@
-# Hi, I'm Adam! 👋
+Hi, I’m Adam 👋  
 
-Welcome to my GitHub profile! I'm a full stack development student, passionate about game design.
+I’m a Python developer with a strong interest in teaching game design through simple, transparent systems.  
+I build games using Python and Pygame to help learners understand what’s happening *under the hood* — from game loops and input handling to rules, balance, and basic AI.
 
-## About Me
+My background includes peer-led learning at Kood/Jõhvi, where collaboration, explanation, and learning-by-doing were core to the process. I enjoy breaking down complex ideas into approachable concepts, especially for beginners and younger learners.
 
-- 💼 Currently studying at kood/Johvi, Estonia.
-- 🌱 I'm currently learning Golang, JavaScript, HTML, CSS, Python.
-- 💬 Ask me about music, game development, art and design.
+### What I focus on
+- Game design fundamentals using Python & Pygame  
+- Teaching-friendly code and clear structure  
+- Learning through experimentation and iteration  
+- Making programming feel creative and accessible  
 
-## Skills
+### Tech & tools
+- Python (Pygame, scripting, simulations)
+- Basic frontend (HTML/CSS)
+- Go (small tools)
+- Git & GitHub
+- Photoshop / Illustrator (asset creation & editing)
 
-- Languages: Golang, Python, HTML /CSS
-- Tools: VSC, Git
-
-
-## Get in Touch
-
-- LinkedIn: [(https://www.linkedin.com/in/adam-taylor-43978b20b/)]
-
-Feel free to explore my repositories and get in touch! 😊
+I’m particularly interested in educational projects, mentoring, and helping new programmers build confidence through making games.
